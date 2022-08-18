@@ -9516,7 +9516,7 @@ input[type=submit].btn--subtle-hover:hover,
 
   .footer-nav__link,
 .small-nav__link {
-    transition: opacity 0.25s;
+
   }
   .footer-nav__link:hover,
 .small-nav__link:hover {
@@ -10086,7 +10086,7 @@ input[type=submit].btn--subtle-hover:hover,
 
 .rimage-wrapper {
   position: relative;
-  transition: background 500ms;
+
 }
 .rimage-wrapper.lazyload--placeholder {
   background: #f4f4f4;
@@ -10109,7 +10109,7 @@ input[type=submit].btn--subtle-hover:hover,
 }
 .rimage-wrapper .rimage__image.fade-in {
   opacity: 0;
-  transition: opacity 500ms;
+
 }
 .rimage-wrapper .rimage__image.fade-in.lazyloaded {
   opacity: 1;
