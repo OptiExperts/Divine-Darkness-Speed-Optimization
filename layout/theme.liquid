@@ -102,7 +102,7 @@
 
   {% render 'social-meta-tags' %}
 
-  {{ 'styles.css' | asset_url | stylesheet_tag }}
+  <link rel="stylesheet" data-href="{{ 'styles.css' | asset_url }}">
 
   <script>
     document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
@@ -165,7 +165,7 @@
   </script>
 
   {%- if template.directory == 'customers' -%}
-    <script src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
+    <script type="lazyload2" data-src="{{ 'shopify_common.js' | shopify_asset_url }}" defer="defer"></script>
   {%- endif -%}
 
    <!----- Content For Header section -->
@@ -267,8 +267,8 @@
     {% render 'photoswipe' %}
   {%- endif -%}
 
-  <script src="{{ 'vendor.js' | asset_url }}" defer="defer"></script>
-  <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+  <script type="lazyload2" data-src="{{ 'vendor.js' | asset_url }}" defer="defer"></script>
+  <script type="lazyload2" data-src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
 {% render "easystock" %}
 
 {% include 'whatsapp-share' %}
