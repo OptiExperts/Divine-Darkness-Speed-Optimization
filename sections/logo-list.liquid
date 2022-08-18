@@ -52,7 +52,7 @@
                   alt="{{ block.settings.image.alt | escape }}">
                 <noscript>
                   {%- capture image_width_key -%}{{ block.settings.image_width }}x{%- endcapture -%}
-                  <img class="rimage__image" src="{{ block.settings.image | img_url: image_width_key }}" alt="{{ image.alt | escape }}">
+                  <img class="lazy2 rimage__image" data-src="{{ block.settings.image | img_url: image_width_key }}" alt="{{ image.alt | escape }}">
                 </noscript>
               </div>
             </div>
