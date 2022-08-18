@@ -268,8 +268,8 @@
     {% render 'photoswipe' %}
   {%- endif -%}
 
-  <script type="lazyload2" data-src="{{ 'vendor.js' | asset_url }}" defer="defer"></script>
-  <script type="lazyload2" data-src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'vendor.js' | asset_url }}" defer="defer"></script>
+  <script src="{{ 'theme.js' | asset_url }}" defer="defer"></script>
 {% render "easystock" %}
 
 {% include 'whatsapp-share' %}
