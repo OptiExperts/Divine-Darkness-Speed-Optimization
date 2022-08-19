@@ -45,10 +45,10 @@
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
-            "overlay_title": "Nieuwe Collectie Jurken",
-            "overlay_text": "Jurken in verschillende stijlen van Goth tot Punk!",
+            "overlay_title": "Nouvelle collection de Robes",
+            "overlay_text": "Découvrez notre Sélection de Robes de style Alternatif",
             "overlay_url_text_1": "Shop Now!",
-            "overlay_url_1": "shopify:\/\/collections\/lange-en-korte-jurken-in-victoriaanse-en-gothic-stijl-en-meer",
+            "overlay_url_1": "shopify:\/\/collections\/robes-de-differents-styles",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
@@ -107,14 +107,14 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/shoespres.jpg",
             "image_position": "center center",
-            "image_link": "shopify:\/\/collections\/dames-schoenen",
+            "image_link": "shopify:\/\/collections\/chaussures-femmes",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
             "overlay_title": "Chocolaticas®",
             "overlay_text": "Mary Janes Hot Chocolate Design",
             "overlay_url_text_1": "Shop now!",
-            "overlay_url_1": "shopify:\/\/collections\/dames-schoenen",
+            "overlay_url_1": "shopify:\/\/collections\/chaussures-femmes",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
@@ -140,14 +140,14 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/cyberpres.jpg",
             "image_position": "center center",
-            "image_link": "shopify:\/\/collections\/cyber-rave-wear",
+            "image_link": "shopify:\/\/collections\/cybergoth-rave",
             "color_overlay_bg": "#ffffff",
             "overlay_opacity": 80,
             "color_overlay_text": "#333333",
             "overlay_title": "Cyber \/ Rave",
-            "overlay_text": "Cyber\/Rave Kleding en Accessoires",
+            "overlay_text": "Cyber\/Rave Vêtements et AccessoiresNouvelle Collection bientôt disponible",
             "overlay_url_text_1": "Shop Now!",
-            "overlay_url_1": "shopify:\/\/collections\/cyber-rave-wear",
+            "overlay_url_1": "shopify:\/\/collections\/cybergoth-rave",
             "overlay_url_text_2": "",
             "overlay_url_2": "",
             "overlay_url_style": "button_1",
@@ -188,17 +188,17 @@
     "1645064879918b6d32": {
       "type": "pluginseo-headings",
       "settings": {
-        "heading": "Trendy Fashion voor Goth-stijl en alternatieve kleding",
-        "subheading": "<br>Unieke lange jurken, korsetten, haaraccessoires, herenkleding en donkere woonaccessoires"
+        "heading": "Mode tendance Alternative Gothique, Emo, Punk, Cyber, Rave, Boho, Streetwear",
+        "subheading": "<br>Robes uniques, corsets, accessoires , vêtements pour hommes et accessoires maison"
       }
     },
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nieuw bij Divine-Darkness!",
+        "title": "Nouveautés chez Divine-Darkness",
         "enlarge_title": false,
         "link_text": "Shop now!",
-        "collection": "nieuwe-artikelen-tops-jurken-rokken-accessoires-muziek-en-meer",
+        "collection": "nouveautes-chez-divine-darkness",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
@@ -208,6 +208,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -277,8 +278,8 @@
     "rich-text": {
       "type": "rich-text",
       "settings": {
-        "title": "DivineDarkness.eu",
-        "text": "<p>De online winkel voor Gothic, Punk, Pin-Up, Rock, Emo en meer.. in Nederland!<\/p><p>Welkom bij Divine-Darkness.eu Wij zijn een online kleding winkel gespecialiseerd<br\/> in Alternatieve mode zoals Gothic, Emo, Retro, Punk, Rock en meer.. <br\/>Wij zijn sinds 2004 online en hebben een groot assortiment in Jurken, Rokken, Tops, Broeken, T-Shirts Accessoires en meer, <br\/>accessoires, muziek, figures en meer. Ons bedrijf is in Nederland gevestigd, <br\/>maar verzenden wereldwijd. Mocht je vragen of suggesties hebben kan je <br\/>altijd <a href=\"https:\/\/divinedarkness.eu\/pages\/neem-contact-op\" title=\"Neem contact op:\">contact<\/a> met ons opnemen. We zullen je vraag z.s.m. behandelen.<\/p><p><\/p><p>Show off your Dark Divinity!!<\/p>",
+        "title": "DivineDarkness.fr",
+        "text": "<p>La boutique en ligne de Mode Gothique, Punk, Pin-Up, Rock, Cyber, Emo ..<\/p><p>Bienvenue sur Divine-Darkness.fr Boutique de vêtements en ligne spécialisée<br\/> dans la mode Alternative  Gothique, Emo, Rétro, Punk, Rock, Cyber ... Nous proposons une grande sélection de robes, jupes, hauts, corsets ainsi que de nombreux accessoires et plus encore. Notre Boutique est située aux Pays-Bas. <br\/>Nous expédions dans le monde entier. Si vous avez des questions ou des suggestions, vous pouvez <br\/>Nous <a href=\"https:\/\/divinedarkness.eu\/pages\/contact-contact\" title=\"nous contactez :\">contacter<\/a><br\/>Nous répondrons à votre question dès que possible.<\/p><p><\/p><p>Montrez votre Dark Divinity !!<\/p>",
         "button_label": "",
         "button_link": "",
         "url_style": "button_1",

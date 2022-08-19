@@ -130,7 +130,7 @@
           "dock_nav": true,
           "show_announcement_bar": true,
           "home_only_announcement_bar": true,
-          "announcement_bar_text": "Vanaf 70 Eur. Gratis verzending met tracking binnen Nederland!  Vanaf 120 Eur. gratis verzending (BE)",
+          "announcement_bar_text": "Frais d'envoi gratuits en France à partir de 120 Eur",
           "announcement_bar_url": "",
           "main_linklist": "main-menu",
           "show_locale_selector": false,
@@ -138,9 +138,9 @@
           "show_messages": true,
           "home_only_messages": false,
           "slideshow_messages": true,
-          "message_1_text": "DivineDarkness.eu de online Alternatieve Fashion winkel van Nederland!",
+          "message_1_text": "DivineDarkness.fr la boutique gothique en ligne de Mode Alternative !",
           "message_1_url": "",
-          "message_2_text": "Gothic, Punk, Rave, Pin-Up en meer voor de \"Dark Soul\"",
+          "message_2_text": "Vêtements et Accessoires Gothiques, Romantiques, Punk, Cyber, Vintage, Rave, Pin-Up, et bien plus pour les Dark Souls",
           "message_2_url": "",
           "message_3_text": "Show off your Dark Divinity!",
           "message_3_url": ""
@@ -152,15 +152,15 @@
           "menu": {
             "type": "link_list",
             "settings": {
-              "heading": "Handige links:",
+              "heading": "Liens utiles:",
               "menu": "footer"
             }
           },
           "text": {
             "type": "text",
             "settings": {
-              "heading": "De alternatieve mode winkel van Nederland sinds 2004!",
-              "text": "<p>Van Goth tot Pin-Up we hebben alles voor je \"Dark Lifestyle\" <\/p><p>Ons assortiment bestaat uit Tops, Jurken, Rokken en meer. Ook bieden wij een uitgebreide collectie aan van accessoires om je outfit af te maken van riemen, tassen hoeden en meer we hebben het allemaal! Ook hebben wij een kleine collectie van speciale vinyl records in diverse stijlen. Mocht je wat zoeken neem gerust contact met ons op!<\/p><p>Show off your Dark Divinity!<\/p>"
+              "heading": "La boutique de mode alternative aux Pays Bas depuis 2004!",
+              "text": "<p>Magasin en ligne proposant un grand choix de vêtements Gothiques, Vintage, Cyber, Rave, Pin-Up et autres styles alternatifs<\/p><p>Nous vous proposons un grand choix de  robes, hauts, jupes, corsets et plus encore. De nombreux accessoires pour compléter votre tenue, des bijoux, des sacs, des gants, des chapeaux. Egalement des objets de décoration pour la maison. Nous avons également une petite collection de disques vinyles spéciaux dans différents styles. Si vous cherchez quelque chose, n'hésitez pas à nous contacter !<\/p>"
             }
           },
           "social": {
@@ -182,9 +182,9 @@
           "show_locale_selector": false,
           "show_currency_selector": false,
           "show_subscribe_form": true,
-          "subscribe_title": "Blijf op de hoogte!",
+          "subscribe_title": "Restez informés !",
           "subscribe_label": "E-Mail",
-          "subscribe_button": "Abonneer nu!",
+          "subscribe_button": "Abonnez vous !",
           "subscribe_description": ""
         }
       },
@@ -195,8 +195,8 @@
           "popup_delay_seconds": 6,
           "popup_dismiss_for_days": 30,
           "position": "center",
-          "title": "Blijf op de hoogte!",
-          "text": "<p>Schrijf je nu in en blijf op de hoogte!<\/p>",
+          "title": "Restez informés !",
+          "text": "<p>Inscrivez-vous maintenant et restez informé !<\/p>",
           "show_newsletter": true,
           "show_social_icons": true
         }
