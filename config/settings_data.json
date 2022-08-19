@@ -152,7 +152,7 @@
           "menu": {
             "type": "link_list",
             "settings": {
-              "heading": "Handige links:",
+              "heading": "Liens utiles:",
               "menu": "footer"
             }
           },
