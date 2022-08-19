@@ -7,7 +7,6 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/GOTHDAY.jpg",
             "image_position": "center center",
             "image_link": "",
             "color_overlay_bg": "#ffffff",
@@ -72,8 +71,8 @@
         },
         "slide-0": {
           "type": "image",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/press13-03-2022.jpg",
             "image_position": "center center",
             "image_link": "shopify:\/\/collections\/cosplay-en-casual-looks-voor-dames-lange-rokken-lange-jurken-korsetten",
             "color_overlay_bg": "#ffffff",
@@ -189,8 +188,8 @@
     "1645064879918b6d32": {
       "type": "pluginseo-headings",
       "settings": {
-        "heading": "Trendy Fashion voor Goth-stijl en alternatieve kleding",
-        "subheading": "<br>Unieke lange jurken, korsetten, haaraccessoires, herenkleding en donkere woonaccessoires"
+        "heading": "Mode tendance Alternative Gothique, Emo, Punk, Cyber, Rave, Boho, Streetwear",
+        "subheading": "<br>Robes uniques, corsets, accessoires , vêtements pour hommes et accessoires maison"
       }
     },
     "featured-collection": {
@@ -294,7 +293,6 @@
     "featured-blog": {
       "type": "featured-blog",
       "settings": {
-        "heading_image": "shopify:\/\/shop_images\/womennewshop.jpg",
         "image_position": "center center",
         "title": "Blog posts",
         "description": "Hier vind je het laatste nieuws!",
