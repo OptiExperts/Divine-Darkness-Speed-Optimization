@@ -195,8 +195,8 @@
           "popup_delay_seconds": 6,
           "popup_dismiss_for_days": 30,
           "position": "center",
-          "title": "Restez informés !",
-          "text": "<p>Inscrivez-vous maintenant et restez informé !<\/p>",
+          "title": "Blijf op de hoogte!",
+          "text": "<p>Schrijf je nu in en blijf op de hoogte!<\/p>",
           "show_newsletter": true,
           "show_social_icons": true
         }
