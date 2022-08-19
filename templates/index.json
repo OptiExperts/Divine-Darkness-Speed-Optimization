@@ -208,6 +208,7 @@
     },
     "collection-list": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "collection-0": {
           "type": "collection",
@@ -292,6 +293,7 @@
     },
     "featured-blog": {
       "type": "featured-blog",
+      "disabled": true,
       "settings": {
         "image_position": "center center",
         "title": "Blog posts",
