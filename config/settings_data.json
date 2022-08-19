@@ -182,9 +182,9 @@
           "show_locale_selector": false,
           "show_currency_selector": false,
           "show_subscribe_form": true,
-          "subscribe_title": "Restez informés !",
+          "subscribe_title": "Blijf op de hoogte!",
           "subscribe_label": "E-Mail",
-          "subscribe_button": "Abonnez vous !",
+          "subscribe_button": "Abonneer nu!",
           "subscribe_description": ""
         }
       },
