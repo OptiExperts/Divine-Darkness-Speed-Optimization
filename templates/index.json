@@ -195,10 +195,10 @@
     "featured-collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Nieuw bij Divine-Darkness!",
+        "title": "Nouveautés chez Divine-Darkness",
         "enlarge_title": false,
         "link_text": "Shop now!",
-        "collection": "nieuwe-artikelen-tops-jurken-rokken-accessoires-muziek-en-meer",
+        "collection": "nouveautes-chez-divine-darkness",
         "show_vendor": false,
         "enable_carousel": false,
         "grid": 4,
