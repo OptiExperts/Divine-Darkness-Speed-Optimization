@@ -200,7 +200,7 @@
         "link_text": "Shop now!",
         "collection": "nieuwe-artikelen-tops-jurken-rokken-accessoires-muziek-en-meer",
         "show_vendor": false,
-        "enable_carousel": true,
+        "enable_carousel": false,
         "grid": 4,
         "row_count": 3,
         "grid_mobile": "2"
