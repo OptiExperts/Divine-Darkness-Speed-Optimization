@@ -54,7 +54,7 @@
 {% assign template_name = '' %}
 {% endif %}
 
-<script type="lazyload2">
+<script>
  var jQ;
  var isjQExists=false;
   function showWPdiv(){
@@ -97,11 +97,8 @@
   } 
   
 </script>
-{%%}
 {% capture store_url %}https://shopiapps.in/whatsapp-share/whatsapp_inc.php?shop={{shop.permanent_domain}}{% endcapture %}
-<script type="lazyload2" data-src="{{ store_url }}"></script>
-
-
+{{ store_url | script_tag }}
 {% if enable_sticky[1] == "yes" %}
 
 <div id="wp_share">
